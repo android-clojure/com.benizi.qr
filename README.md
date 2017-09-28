@@ -35,4 +35,4 @@ lein droid doall
 
 Copyright © 2015–2017 Benjamin R. Haskell
 
-Distributed under [The MIT License][LICENSE].
+Distributed under [The MIT License](LICENSE).
